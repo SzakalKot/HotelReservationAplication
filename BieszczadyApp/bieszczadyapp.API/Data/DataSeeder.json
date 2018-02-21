@@ -1,0 +1,77 @@
+[
+    {
+      "Username": "Washington",
+      "Password": "password",
+      "Name": "Washington",
+      "Surname": "2017-02-10",
+      "email": "valenciahenson@realmo.com",
+      "phoneNumber": "(873) 551-2067",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/18.jpg",
+          "isMain": true,
+          "description": "Do aliquip ea exercitation sint ea fugiat."
+        }
+      ]
+    },
+    {
+      "Username": "Madden",
+      "Password": "password",
+      "Name": "Madden",
+      "Surname": "2017-05-11",
+      "email": "jerihammond@suremax.com",
+      "phoneNumber": "(815) 557-3982",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/60.jpg",
+          "isMain": true,
+          "description": "Voluptate exercitation excepteur eiusmod duis proident ullamco eu eiusmod eu labore."
+        }
+      ]
+    },
+    {
+      "Username": "Mayer",
+      "Password": "password",
+      "Name": "Mayer",
+      "Surname": "2017-05-05",
+      "email": "churchhayes@verton.com",
+      "phoneNumber": "(900) 413-2185",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/51.jpg",
+          "isMain": true,
+          "description": "Eu minim consequat nostrud commodo aliquip nostrud elit voluptate ut dolor do magna irure."
+        }
+      ]
+    },
+    {
+      "Username": "Jimenez",
+      "Password": "password",
+      "Name": "Jimenez",
+      "Surname": "2017-02-10",
+      "email": "inezhardy@exotechno.com",
+      "phoneNumber": "(962) 599-2792",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/38.jpg",
+          "isMain": true,
+          "description": "Eiusmod non fugiat reprehenderit sunt eiusmod ad cillum cillum anim duis."
+        }
+      ]
+    },
+    {
+      "Username": "Knox",
+      "Password": "password",
+      "Name": "Knox",
+      "Surname": "2017-03-09",
+      "email": "gregoryneal@gynk.com",
+      "phoneNumber": "(898) 475-3400",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/73.jpg",
+          "isMain": true,
+          "description": "Commodo proident reprehenderit qui sunt incididunt et officia incididunt ipsum."
+        }
+      ]
+    }
+  ]
